@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[测试]]></title>
-    <url>%2Fpost%2F9daba997%2F</url>
-    <content type="text"><![CDATA[测试]]></content>
+    <title><![CDATA[hexo搭建]]></title>
+    <url>%2Fpost%2F18b37fcd%2F</url>
+    <content type="text"><![CDATA[hexo post_asset_folder true]]></content>
       <categories>
-        <category>分类1</category>
+        <category>hexo</category>
       </categories>
       <tags>
-        <tag>标签2</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[text]]></title>
+    <title><![CDATA[开发工具]]></title>
     <url>%2Fpost%2F3b8ba7c7%2F</url>
-    <content type="text"><![CDATA[开发工具1. IntelliJ IDEA开发JAVA的一款的Ide 2. JetBrains WebStorm前端的开发工具 3. Navicat Premium万能的数据库可视化连接工具 4. MobaXterm服务器连接工具 5. Notepad++文本编辑器 6. Postmanhttp接口测试工具 7. BCompare代码对比工具 8. TeamViewer远程控制工具 9. Chrome谷歌浏览器 10. Visual Studio微软家的宇宙第一ide，目前不支持JAVA 11. Visual Studio Code实质是一个支持多种插件的文本编辑器，可以理解为一款轻量化的前端ide 12. UnityUnity3D的开发工具]]></content>
+    <content type="text"><![CDATA[开发工具IntelliJ IDEA开发JAVA的一款的Ide JetBrains WebStorm开发前端的一款的Ide，比较笨重，但是好用啊 Navicat Premium万能的数据库可视化连接工具 MobaXterm万能的服务器连接工具 Notepad++文本编辑器 Postmanhttp接口测试工具 BCompare代码对比工具 TeamViewer远程控制工具 Chrome谷歌浏览器 Visual Studio微软家的宇宙第一ide，目前不支持JAVA Visual Studio Code实质是一个支持多种插件的文本编辑器，可以理解为一款轻量化的前端ide UnityUnity3D的开发工具 TortoiseGitgit的可视化图形操作工具，俗称小乌龟，实用 TortoiseSVNSVN客户端以及可视化工具，俗称小乌龟，实用]]></content>
       <categories>
-        <category>分类1</category>
+        <category>开发工具</category>
       </categories>
       <tags>
-        <tag>标签1</tag>
+        <tag>开发工具</tag>
+        <tag>汇总</tag>
       </tags>
   </entry>
   <entry>
