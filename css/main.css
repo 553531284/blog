@@ -749,7 +749,6 @@ pre .javascript .function {
 .post-body .label {
   display: inline;
   padding: 0 2px;
-  white-space: nowrap;
 }
 .post-body .label.default {
   background-color: #f0f0f0;
@@ -1585,14 +1584,13 @@ pre .javascript .function {
   margin-left: 5px;
 }
 .posts-expand .post-eof {
-  display: block;
   margin: 80px auto 60px;
   width: 8%;
   height: 1px;
   background: #ccc;
   text-align: center;
 }
-.post:last-child .post-eof.post-eof.post-eof {
+.post:last-child .post-eof {
   display: none;
 }
 .post-gallery {
@@ -1635,6 +1633,16 @@ pre .javascript .function {
 }
 .rtl.post-title {
   font-family: UKIJ Ekran;
+}
+.reading-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #87daff;
 }
 .sidebar {
   position: fixed;
@@ -1762,7 +1770,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5c12b5;
+  background: #b9bb12;
 }
 .feed-link,
 .chat {
@@ -2723,10 +2731,4 @@ hr {
 }
 ::-webkit-scrollbar-thumb:hover {
   background-color: #bbb;
-}
-.footer {
-  position: fixed;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
 }
