@@ -1770,7 +1770,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #41d20b;
+  background: #ffff06;
 }
 .feed-link,
 .chat {
@@ -2731,4 +2731,7 @@ hr {
 }
 ::-webkit-scrollbar-thumb:hover {
   background-color: #bbb;
+}
+.footer {
+  display: none;
 }
